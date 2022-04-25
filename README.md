@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NathanCleary123
-- 👀 I’m interested in Music, Game Dev & Audio!
+- 👀 I'm a Seasoned Composer, Sound Designer, and more recently, Game Developer! 
 - 🌱 I’m currently learning C++ in Unreal Engine
-- 💞️ I’m looking to collaborate on Game Projects (I'm a Composer & Sound Designer)
+- 💞️ I’m looking to collaborate on Game Projects (I'm mainly a Composer & Sound Designer)
 - 📫 How to reach me: NathanClearyMusic@gmail.com
 
 <!---
